@@ -1,0 +1,9 @@
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\bin\Debug\netstandard2.1\magiclick.Core.deps.json
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\bin\Debug\netstandard2.1\magiclick.Core.dll
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\bin\Debug\netstandard2.1\magiclick.Core.pdb
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.csproj.AssemblyReference.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.AssemblyInfoInputs.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.AssemblyInfo.cs
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.csproj.CoreCompileInputs.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.dll
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Core\obj\Debug\netstandard2.1\magiclick.Core.pdb

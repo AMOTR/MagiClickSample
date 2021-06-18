@@ -1,0 +1,12 @@
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\bin\Debug\netstandard2.1\magiclick.Services.deps.json
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\bin\Debug\netstandard2.1\magiclick.Services.dll
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\bin\Debug\netstandard2.1\magiclick.Services.pdb
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\bin\Debug\netstandard2.1\magiclick.Core.dll
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\bin\Debug\netstandard2.1\magiclick.Core.pdb
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.csproj.AssemblyReference.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.AssemblyInfoInputs.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.AssemblyInfo.cs
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.csproj.CoreCompileInputs.cache
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.csproj.CopyComplete
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.dll
+D:\Medium-MyMusic-master\Medium-MyMusic-master\MyMusic.Services\obj\Debug\netstandard2.1\magiclick.Services.pdb
