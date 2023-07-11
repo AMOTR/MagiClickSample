@@ -1,5 +1,6 @@
-# MagiClickSample
+# A simple sample of N-tier architecture of .NET 6 solution 
 
-Please run update-database command firstly
+## To run this project please run this command first : 
+  **update-database**
 
-This's a solution architect of how we can develop web-based applications using .NET6
+ 
